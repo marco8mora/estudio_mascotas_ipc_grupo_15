@@ -1,0 +1,5 @@
+name;age;weight;race;cause_of_death
+bird1;unknown;0.04kg;australian_parakeet;old_age
+bird2;unknown;0.02kg;australian_parakeet;old_age
+Bird3;rescue;0.4kg;australian_parakeet;alive_free
+Bird4;unknown;0.6kg;australian_parakeet;alive_free
