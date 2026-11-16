@@ -32,8 +32,10 @@ Python and R scripts that use the data in `pets_data/`.
 
 | Script | Description | Input |
 |---|---|---|
+| `python/utils.py` | Script with common utility functions intended to be imported in other scripts | None |
 | `python/pets_by_owner.py` | Lists all pets associated with an owner | `user` (GitHub user) |
 | `r/cause_of_death_summary.R` | Summarizes pets per class/owner, causes of death and mean age/weight by class | None |
+| `r/pca_report.R` | Principal component analysis (PCA) of clinical data for all pets | None |
 
 ## Requirements
 
